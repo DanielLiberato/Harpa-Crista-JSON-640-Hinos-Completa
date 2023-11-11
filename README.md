@@ -1,6 +1,6 @@
 # Harpa-Crista-JSON-640-Hinos-Completa
 
-### Neste repositório você terá em JSON os 640 hinos da harpa cristã em Json.
+### Neste repositório você terá em JSON com os 640 hinos da harpa cristã em Json.
 ### Todos os 640 hinos da harpa cristã das Igrejas Assembleia de Deus.
 
 Fique a vontade para dar uma estrela a este repositório.
