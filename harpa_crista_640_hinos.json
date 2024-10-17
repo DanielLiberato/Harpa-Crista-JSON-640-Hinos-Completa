@@ -657,7 +657,8 @@
     "hino": "65 - Quem Irá?",
     "coro": "“Todo o poder o Pai me deu, <br> Na terra, como lá no céu! <br> Ide, pois, anunciar o Evangelho, <br> E eis-me convosco Sempre!”",
     "verses": {
-      "1": "Eis os milhões, que em trevas tão medonhas <br> Jazem perdidos, sem o Salvador! <br> Quem, quem irá as novas proclamando, <br> Que Deus, em Cristo, salva o pecador? <br> 2 Portas abertas, eis por todo o mundo! <br> Cristãos, erguei-vos! Já avante anda!! <br> Crentes em Cristo! Uni as vossas forças. <br> Da escravidão os povos liberta!.",
+      "1": "Eis os milhões, que em trevas tão medonhas <br> Jazem perdidos, sem o Salvador! <br> Quem, quem irá as novas proclamando, <br> Que Deus, em Cristo, salva o pecador?",
+      "2": "Portas abertas, eis por todo o mundo! <br> Cristãos, erguei-vos! Já avante anda!! <br> Crentes em Cristo! Uni as vossas forças. <br> Da escravidão os povos liberta!.",
       "3": "\"Ó vinde a mim! A voz divina clama, <br> \"Vinde!\" Clama! em nome de Jesus: <br> Pra nos salvar da maldição eterna, <br> Seu sangue derramou por nós na cruz.",
       "4": "Ó Deus apressa o dia glorioso, <br> Em que os remidos todos se unirão, <br> E, em coro excelso, santo, jubiloso, <br> P'ra todo o sempre, glória a Ti darão."
     }
@@ -919,7 +920,8 @@
     "coro": "Oh! Que Salvador eu tenho! <br> O Seu sangue me remiu, <br> Quando, sobre o rude lenho, <br> Meu castigo Ele cumpriu.",
     "verses": {
       "1": "Meu bondoso Salvador <br> Meus pecados carregou; <br> Foi Jesus, o Redentor, <br> Que da morte me livrou.",
-      "2": "Oh! Que amor do meu Jesus, <br> Que em homem se encarnou, <br> Pra sofrer por mim, na cruz; <br> E meus crimes perdoou. <br> 3 Não há outro nome igual <br> Ao bom nome de Jesus, <br> Porque livra-me do mal <br> E à glória me conduz.",
+      "2": "Oh! Que amor do meu Jesus, <br> Que em homem se encarnou, <br> Pra sofrer por mim, na cruz; <br> E meus crimes perdoou.",
+      "3": "Não há outro nome igual <br> Ao bom nome de Jesus, <br> Porque livra-me do mal <br> E à glória me conduz.",
       "4": "Com Jesus, alegre, vou <br> Sua graça publicar, <br> Porque Ele me chamou <br> Na Sua vinha a trabalhar."
     }
   },
@@ -1757,7 +1759,8 @@
     "hino": "178 - Gloriosa Paz",
     "coro": "Paz, paz, gloriosa paz; <br> Paz, paz, perfeita paz; <br> Desde que Cristo minh’alma salvou, <br> Tenho doce paz!",
     "verses": {
-      "1": "Crendo em Cristo Jesus vim obter <br> Gloriosa paz, perfeita paz: <br> Inda que dores açoitem meu ser, <br> Tenho doce paz! <br> 2 Paz insondável, qual um grande mar, <br> Gloriosa paz, perfeita paz; <br> Posso nos braços de Deus repousar, <br> Tenho doce paz!",
+      "1": "Crendo em Cristo Jesus vim obter <br> Gloriosa paz, perfeita paz: <br> Inda que dores açoitem meu ser, <br> Tenho doce paz!",
+      "2": "Paz insondável, qual um grande mar, <br> Gloriosa paz, perfeita paz; <br> Posso nos braços de Deus repousar, <br> Tenho doce paz!",
       "3": "Paz inefável de Deus, que faz bem, <br> Gloriosa paz, perfeita paz; <br> Que dá alento à alma também, <br> Tenho doce paz!",
       "4": "E, nos conflitos com o tentador, <br> Gloriosa paz. perfeita paz, <br> Cristo Jesus me fará vencedor, <br> Tenho doce paz!"
     }
@@ -3957,7 +3960,8 @@
     "hino": "404 - Em Glória Virá",
     "coro": "Em glória virá o Filho de Deus, <br> Sempre orando Jesus esperai; <br> Se virdes a “estrela da alva” no céu, <br> Alerta estai!",
     "verses": {
-      "1": "Espera do céu, seu Senhor, o fiel <br> Aguarda orando, pois há de voltar <br> Na nuvem, em glória o Emanuel, <br> Com grande poder, a fim de o buscar. <br> 2 Ó Pai amoroso, envia Jesus. <br> O crente fiel O espera do céu; <br> Ó manda-lhe logo a celeste luz, <br> Em que há de vir o Filho de Deus.",
+      "1": "Espera do céu, seu Senhor, o fiel <br> Aguarda orando, pois há de voltar <br> Na nuvem, em glória o Emanuel, <br> Com grande poder, a fim de o buscar.",
+      "2": "Ó Pai amoroso, envia Jesus. <br> O crente fiel O espera do céu; <br> Ó manda-lhe logo a celeste luz, <br> Em que há de vir o Filho de Deus.",
       "3": "O santo Evangelho se há de cumprir <br> E breve nas nuvens veremos Jesus; <br> “Assim descerá como O vistes subir\" <br> O que S’imolou por nós sobre a cruz!"
     }
   },
@@ -4377,7 +4381,7 @@
     "coro": "",
     "verses": {
       "1": "Crentes, avançai, <br> Firmes pelejai <br> Contra o vício, contra o mal! <br> Quem quer triunfar, <br> Cristo agradar, <br> Vem à luta divinal, <br> Nosso guia é Jesus, <br> Ele sempre nos conduz; <br> A vitória nos dará, <br> Cristo sempre vencerá.",
-      "2": "0 celeste lar <br> Vamos alcançar, <br> Se lutarmos com valor; <br> Para o céu marchai, <br> Sempre avante andai <br> Dando glória ao Redentor. <br> O Seu sangue que verteu. <br> Salvação a todos deu; <br> Quem crê nEle gozará, <br> Vida eterna fruirá!"
+      "2": "O celeste lar <br> Vamos alcançar, <br> Se lutarmos com valor; <br> Para o céu marchai, <br> Sempre avante andai <br> Dando glória ao Redentor. <br> O Seu sangue que verteu. <br> Salvação a todos deu; <br> Quem crê nEle gozará, <br> Vida eterna fruirá!"
     }
   },
   "449": {
